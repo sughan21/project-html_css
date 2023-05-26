@@ -1,0 +1,62 @@
+* {
+  margin: 10px;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  background-color: rgb(127, 220, 237);
+  width: 60rem;
+  margin: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.box1 {
+  text-align: center;
+  background-color: gray;
+  width: 15rem;
+}
+.box-button {
+  width: 220px;
+  height: 30px;
+}
+.title {
+  background-color: aliceblue;
+}
+
+.box2 {
+  text-align: center;
+  background-color: gray;
+  width: 15rem;
+}
+.box-button {
+  width: 220px;
+  height: 30px;
+}
+.title {
+  background-color: aliceblue;
+}
+.box1 p,
+.box2 p,
+.box3 p {
+  padding: 15px 0px;
+  border-bottom: 1px solid black;
+}
+
+.box3 {
+  text-align: center;
+  background-color: gray;
+  width: 15rem;
+}
+.box-button {
+  width: 220px;
+  height: 30px;
+}
+.title {
+  background-color: aliceblue;
+}
+.box1 p {
+  padding: 15px 0px;
+  border-bottom: 1px solid black;
+}
